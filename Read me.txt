@@ -1,0 +1,1 @@
+VIRTUAL DRUM FREEWARE VERSION - This is final version, now with     selection of sectors, Paste/Undo/Redo functions and Wheel Button to chance instruments.  The INTERCOM project (built in) enable the communication with VIRTUAL GUITAR Software.
